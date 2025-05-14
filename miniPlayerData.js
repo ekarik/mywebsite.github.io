@@ -4,12 +4,12 @@ klynt.miniPlayerData = {
     "noWording": "No",
     "analyticsKey": "",
     "launchAppWording": "Then Launch Project",
-    "title": "TEST",
+    "title": "BA Media & Communication",
     "yesWording": "Yes",
     "downloadAppWording": "Download App",
     "thanksForWatchingWording": "Thanks for watching!",
     "fullscreenInfoWording": "This program will launch in fullscreen",
     "url": "",
     "description": "",
-    "thumbnail": "Medias/Photos/IMG_2393.jpeg"
+    "thumbnail": "Medias/Photos/media_comms_logo.JPG"
 }
